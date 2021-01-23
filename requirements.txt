@@ -1,0 +1,5 @@
+tensorflow==1.15.0
+flask==1.1.2
+boto3==1.14.37
+tensorflow-serving-api==1.15.0
+grpc==1.26.0
